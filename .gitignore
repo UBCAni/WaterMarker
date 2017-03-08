@@ -1,4 +1,4 @@
-env/
-*.png
-images/
 .vscode/
+env/
+images/
+marked/
